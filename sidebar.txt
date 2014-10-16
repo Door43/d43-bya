@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bya:home|Door43 (bya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bya|d43-bya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bya/archive/master.zip|d43-bya.zip]]
+
+**Recent Changes**
+{{changes>ns = bya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bya|Ethnologue data]]
+
